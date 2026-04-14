@@ -1,7 +1,7 @@
 
   # Enhance design aesthetics
 
-  This is a code bundle for Enhance design aesthetics. The original project is available at https://www.figma.com/design/fFvoAEQGL4FsqNiPQlPFqI/Enhance-design-aesthetics.
+ 
 
   ## Running the code
 
